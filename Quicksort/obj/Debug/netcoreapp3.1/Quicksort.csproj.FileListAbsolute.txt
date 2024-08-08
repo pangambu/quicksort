@@ -1,0 +1,12 @@
+/Users/paulmb/Projects/Quicksort/Quicksort/bin/Debug/netcoreapp3.1/Quicksort.deps.json
+/Users/paulmb/Projects/Quicksort/Quicksort/bin/Debug/netcoreapp3.1/Quicksort.runtimeconfig.json
+/Users/paulmb/Projects/Quicksort/Quicksort/bin/Debug/netcoreapp3.1/Quicksort.runtimeconfig.dev.json
+/Users/paulmb/Projects/Quicksort/Quicksort/bin/Debug/netcoreapp3.1/Quicksort.dll
+/Users/paulmb/Projects/Quicksort/Quicksort/bin/Debug/netcoreapp3.1/Quicksort.pdb
+/Users/paulmb/Projects/Quicksort/Quicksort/obj/Debug/netcoreapp3.1/Quicksort.csprojAssemblyReference.cache
+/Users/paulmb/Projects/Quicksort/Quicksort/obj/Debug/netcoreapp3.1/Quicksort.AssemblyInfoInputs.cache
+/Users/paulmb/Projects/Quicksort/Quicksort/obj/Debug/netcoreapp3.1/Quicksort.AssemblyInfo.cs
+/Users/paulmb/Projects/Quicksort/Quicksort/obj/Debug/netcoreapp3.1/Quicksort.csproj.CoreCompileInputs.cache
+/Users/paulmb/Projects/Quicksort/Quicksort/obj/Debug/netcoreapp3.1/Quicksort.dll
+/Users/paulmb/Projects/Quicksort/Quicksort/obj/Debug/netcoreapp3.1/Quicksort.pdb
+/Users/paulmb/Projects/Quicksort/Quicksort/obj/Debug/netcoreapp3.1/Quicksort.genruntimeconfig.cache
